@@ -92,8 +92,6 @@ your API key in your request.
 Members
 -------
 
-###
-
 ### MEMBER LISTS
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,7 +118,7 @@ http://api.nytimes.com/svc/politics/v3/us/legislative/congress/103/senate/member
 http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/L000447.json
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<http://developer.nytimes.com/docs/congress_api/congress_api_examples#member-bio-xml>
+<a name="member-bio-xml"/></a>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/B000444.json
@@ -162,7 +160,7 @@ http://api.nytimes.com/svc/politics/v3/us/legislative/congress/111/senate/member
 http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C001041/votes.json
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<http://developer.nytimes.com/docs/congress_api/congress_api_examples#member-pos-xml>
+<a name="member-pos-xml"></a>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/N000147/votes.json
